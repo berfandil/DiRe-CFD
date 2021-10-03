@@ -4,4 +4,4 @@ The DiRe-CFD (Dispersion Resampling - Computational Fluid Dynamics) library impl
 
 ## License
 
-This work is dual-licensed under either CC BY-NC-SA 4.0 or MIT. See the README files in each subrepository.
+This work is dual-licensed under either NPOSL-3.0 or MIT. See the LICENSE files in each subrepository.
