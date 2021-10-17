@@ -10,4 +10,9 @@
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\multi_grid.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
